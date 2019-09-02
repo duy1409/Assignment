@@ -18,7 +18,7 @@
       <i class="fa fa-remove"></i>
     </a>
       
-      <img src="images/marvelstore1.jpg" style="width:40%;" class=" w3-display-topmiddle w3-container"><br><br><br><br><br><br><br><br><br>
+      <img src="images/marvelstore1.jpg" style="width:65%;" class=" w3-display-topmiddle w3-container"><br><br><br><br><br><br><br><br><br>
       
     <h4 style="text-align: center"><b> </b></h4>
     <p class="w3-text-grey"></p>
@@ -58,7 +58,34 @@
         </div>
   </header>
   <!--End of Header -->
+        
+ 
+  
+  
 
+  <!-- ABOUT -->
+<div class="w3-container w3-padding-large w3-grey">
+  <div class="w3-row-padding w3-padding-16" id="about">
+    <div class="w3-col m4">
+        <img src="images/About.PNG" style="width:70%; border-style: solid; border-color: red">
+    </div>
+    <div class="w3-col m8 about-style">
+        <h4><b>ABOUT THE MARVELSTORE</b></h4>
+        <p>
+            Marvel Cinematic Universe is a media brand and a fictional sharing universe focused on a series of superhero movies independently produced by Marvel Studios and based on characters from Marvel's publications. Comics. We specialize in Marvel toy products.
+        </p>
+    </div>
+  </div>      
+<div class="w3-container w3-padding-large" style="margin-bottom:32px"> 
+    
+    <h4>Should you believe in our shop?</h4>
+    <!-- Progress bars / Skills -->
+    <p>Yes, you should</p>
+    <div class="w3-grey">
+      <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:100%">100%</div>
+    </div> 
+       
+</div>
   
   <!-- Contact Section -->
   <div class="w3-container w3-padding-large w3-grey">
