@@ -65,7 +65,7 @@
   
 
   <!-- ABOUT -->
-<div class="w3-container w3-padding-large w3-dark-grey">
+<div class="w3-container w3-padding-large w3-border-red">
   <div class="w3-row-padding w3-padding-16" id="about">
     <div class="w3-col m4">
     </div>
@@ -76,6 +76,26 @@
         </p>
     </div>
   </div>     
+  
+  <!-- Contact Section -->
+  <div class="w3-container w3-padding-large w3-white">
+    <h4 id="contact"><b>Contact Me</b></h4>
+    <div class="w3-row-padding w3-center w3-padding-24" style="margin:0 -16px">
+      <div class="w3-third w3-dark-grey">
+        <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey"></i></p>
+        <p>thanhldgch17337@fpt.edu.vn</p>
+      </div>
+      <div class="w3-third w3-teal">
+        <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey"></i></p>
+        <p>Chicago, US</p>
+      </div>
+      <div class="w3-third w3-dark-grey">
+        <p><i class="fa fa-phone w3-xxlarge w3-text-light-grey"></i></p>
+        <p>512312311</p>
+      </div>
+    </div>
+    
+  </div>
 
   <!-- Footer -->
   <footer class="w3-container w3-padding-32 w3-dark-grey">
@@ -85,6 +105,23 @@
 	        <p>4043 N Ravenswood Ave, Chicago, IL 60613</p>
 	        <p>United States</p>
 	    </div> 
+	    
+
+	    <div class="address-style">
+	      <h4><b>Popular tags</b></h4>
+	      <p>
+	        <span class="w3-tag w3-black w3-margin-bottom">LEGO</span> 
+	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">LEGO Technic</span>
+	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Creative</span>
+	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Intelligent</span>        
+	      </p>
+	    </div>
+
+	  </div>
+  </footer>
+  
+  <div class="w3-black w3-center w3-padding-24">Powered by LEGO World</div>
+
 </div> <!-- End page content -->
 
 	<script>
