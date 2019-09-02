@@ -18,7 +18,7 @@
       <i class="fa fa-remove"></i>
     </a>
       
-      <img src="images/marvelstore1.jpg" style="width:65%;" class=" w3-display-topmiddle w3-container"><br><br><br><br><br><br><br><br><br>
+      <img src="images/marvelstore1.jpg" style="width:80%;" class=" w3-display-topmiddle w3-container"><br><br><br><br><br><br><br><br><br>
       
     <h4 style="text-align: center"><b> </b></h4>
     <p class="w3-text-grey"></p>
@@ -26,6 +26,7 @@
     <br><br>
   <div class="w3-bar-block">
     <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>HOMEPAGE</a> 
+    <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a>
     <a href="index-product.php" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bars fa-fw w3-margin-right"></i>PRODUCT</a> 
     <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACT</a>
     
@@ -64,10 +65,10 @@
   
 
   <!-- ABOUT -->
-<div class="w3-container w3-padding-large w3-grey">
+<div class="w3-container w3-padding-large w3-border-red">
   <div class="w3-row-padding w3-padding-16" id="about">
     <div class="w3-col m4">
-        <img src="images/About.PNG" style="width:70%; border-style: solid; border-color: red">
+        <img src="images/About.PNG" style="width:70%; border-style: solid; border-color: black">
     </div>
     <div class="w3-col m8 about-style">
         <h4><b>ABOUT THE MARVELSTORE</b></h4>
