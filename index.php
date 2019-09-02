@@ -18,7 +18,7 @@
       <i class="fa fa-remove"></i>
     </a>
       
-      <img src="images/marvelstore1.jpg" style="width:80%;" class=" w3-display-topmiddle w3-container"><br><br><br><br><br><br><br><br><br>
+      <img src="images/marvelstore1.jpg" style="width:100%;" class=" w3-display-topmiddle w3-container"><br><br><br><br><br><br><br><br><br>
       
     <h4 style="text-align: center"><b> </b></h4>
     <p class="w3-text-grey"></p>
@@ -78,7 +78,7 @@
   </div>     
   
   <!-- Contact Section -->
-  <div class="w3-container w3-padding-large w3-grey">
+  <div class="w3-container w3-padding-large w3-white">
     <h4 id="contact"><b>Contact Me</b></h4>
     <div class="w3-row-padding w3-center w3-padding-24" style="margin:0 -16px">
       <div class="w3-third w3-dark-grey">
